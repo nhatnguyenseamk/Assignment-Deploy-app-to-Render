@@ -1,6 +1,6 @@
 # Hello World App
 
-A simple and beautiful Flask web application that I use to deploy to Render.
+A simple and beautiful web application that I use to deploy to Render.
 
 ## Features
 - greeting page
