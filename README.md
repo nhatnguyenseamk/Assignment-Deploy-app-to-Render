@@ -8,12 +8,20 @@ A simple and beautiful Flask web application that I use to deploy to Render.
 ## Setup
 
 1. Install the required packages:
+```
 npm install
+
+```
 2. Run the application:
+```
 npm start
-3. Open your browser and navigate to:
+
+```
+4. Open your browser and navigate to:
+```
 http://localhost:3000
 
+```
 ## Project Structure
 
 ```
